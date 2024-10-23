@@ -1,0 +1,3 @@
+--SELECT EmployeeID, JobTitle, Salary FROM EmployeeSalary WHERE
+--EmployeeID IN (SELECT EmployeeID FROM EmployeeDemographics
+--WHERE AGE < 30);
